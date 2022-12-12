@@ -1,0 +1,7 @@
+"registry-mirrors": [
+    "https://qfbrrr2c.mirror.aliyuncs.com",
+    "http://hub-mirror.c.163.com",
+    "https://docker.mirrors.ustc.edu.cn",
+    "https://register.docker-cn.com"
+  ]
+}
